@@ -8,6 +8,9 @@ Ever wonder if your dropped packets got sucked into a passing black hole, or if 
 
 Park it on a secondary monitor during intense gaming sessions, watch your broadband beams surge while downloading massive files, or just enjoy having a friendly little alien co-pilot keeping watch over your home galaxy connection.
 
+<img width="1254" height="875" alt="image" src="https://github.com/user-attachments/assets/7b69eacd-3f9b-4bfb-bc9c-5663e5ee37e3" />
+
+
 ---
 
 ## ✨ Features From Across the Cosmos
