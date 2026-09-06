@@ -1,10 +1,10 @@
 @echo off
-title NetworkVisor - Desktop Shortcut Uninstaller
+title Stellar Visor - Desktop Shortcut Uninstaller
 color 0C
 chcp 65001 >nul 2>&1
 
 echo ================================================================
-echo    [-] NETWORK VISOR - DESKTOP SHORTCUT UNINSTALLER
+echo    [-] STELLAR VISOR - DESKTOP SHORTCUT UNINSTALLER
 echo ================================================================
 echo.
 

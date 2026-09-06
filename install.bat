@@ -1,10 +1,10 @@
 @echo off
-title NetworkVisor - Desktop Shortcut Installer
+title Stellar Visor - Desktop Shortcut Installer
 color 0E
 chcp 65001 >nul 2>&1
 
 echo ================================================================
-echo    [+] NETWORK VISOR - DESKTOP SHORTCUT INSTALLER
+echo    [+] STELLAR VISOR - DESKTOP SHORTCUT INSTALLER
 echo ================================================================
 echo.
 
